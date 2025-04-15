@@ -28,7 +28,7 @@ Location: Navi Mumbai, Maharashtra, India
 ### 💻 Tech Stack I Love Working With
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7f3zR43nbo6vGTWf/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/5xaOcLNK5sFY4KlQ5a8/giphy.gif" width="100" />
 </p>
 
 **Languages:**  
