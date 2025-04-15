@@ -28,7 +28,7 @@ Location: Navi Mumbai, Maharashtra, India
 ### 💻 Tech Stack I Love Working With
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/Ge2w5zwQg6QKpF3ki8/giphy.gif" width="100" />
 </p>
 
 **Languages:**  
@@ -45,6 +45,8 @@ Location: Navi Mumbai, Maharashtra, India
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
