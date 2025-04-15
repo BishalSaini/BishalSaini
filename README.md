@@ -86,7 +86,7 @@ Location: Navi Mumbai, Maharashtra, India
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal32saini@gmail.com)
 [![Call](https://img.shields.io/badge/Call-8655030996-blue?style=for-the-badge)](tel:+918655030996)
-[![Resume](https://img.shields.io/badge/Resume-View-blueviolet?style=for-the-badge)](https://drive.google.com/file/d/1ABOpTJjtOgobMhCPOcXE2gu3kL-nPLKF/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blueviolet?style=for-the-badge)](https://drive.google.com/file/d/1PVarbDOkaEfa29R5J6jxKuNYyaunGBSH/view?usp=drive_link)
 
 ---
 
