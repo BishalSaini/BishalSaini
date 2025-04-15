@@ -27,7 +27,7 @@ Location: Navi Mumbai, Maharashtra, India
 ### 💻 Tech Stack I Love Working With
 
 <p align="center">
-  <img src="https://tenor.com/en-IN/view/fireship-java-java-public-static-void-main-string-args-java-instant-legacy-code-java-main-dance-gif-26952991" width="100" />
+  <img src="https://media1.tenor.com/m/KwtuGxsy8jAAAAAd/fireship-java-java.gif" width="100" />
 </p>
 
 **Languages:**  
