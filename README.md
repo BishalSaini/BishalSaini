@@ -15,7 +15,6 @@ Current Role: Software Developer & Tech Explorer
 Education:
   🎓 Master's in Information Technology (Ongoing)
   🧑‍🎓 B.Sc. I.T. – SIES College, Nerul (CGPA: 8.4)
-  📘 HSC – St. Mary Convent High School & Jr. College (CGPA: 6.11)
 Location: Navi Mumbai, Maharashtra, India
 ```
 
@@ -28,7 +27,7 @@ Location: Navi Mumbai, Maharashtra, India
 ### 💻 Tech Stack I Love Working With
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLNK5sFY4KlQ5a8/giphy.gif" width="100" />
+  <img src="https://tenor.com/en-IN/view/fireship-java-java-public-static-void-main-string-args-java-instant-legacy-code-java-main-dance-gif-26952991" width="100" />
 </p>
 
 **Languages:**  
